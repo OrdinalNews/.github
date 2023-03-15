@@ -3,4 +3,4 @@
 
 # Ordinal News Standard
 
-Setting the standard for inscribing news on Bitcoin.
+A standard for permanently inscribing news and topics of discussion to Bitcoin.
